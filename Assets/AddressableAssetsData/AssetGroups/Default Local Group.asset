@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 23c56a1c4b1d9d04385976288fca0dbe
+  m_SerializeEntries:
+  - m_GUID: 2255dfd5b5ac37f42abc3aea41cf38ed
+    m_Address: Assets/ConfigDependent/InAppPackageConfig 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d35b9a1b20628640830a9aa8bd54d41
+    m_Address: Assets/ConfigDependent/PlayerConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df33ef437ab4904f940ba74593e1137
+    m_Address: Assets/ConfigDependent/InAppPackageConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb28a48e5e35fc44daecaef6cc3c62cd
+    m_Address: Assets/ConfigDependent/InAppPackageConfig 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2bfa8e017fa67e94dbe8ee5c2d16353b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eec6bcdc2d58d2d41ba69ee6f9da9b16, type: 2}
+    - {fileID: 11400000, guid: 8dad1f39cce93fe46b49e7e4da588c2f, type: 2}

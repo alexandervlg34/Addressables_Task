@@ -96,6 +96,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d49939868fb029428ef145aa32da971, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHP: 42.1
-  startingSpeed: 5.79
-  startingAttack: 0.444
+  _config:
+    m_AssetGUID: 4d35b9a1b20628640830a9aa8bd54d41
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

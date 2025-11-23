@@ -32,6 +32,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e140edb5c135229409550bfb49160b9b
+    m_Address: Assets/ConfigDependent/InAppPackageConfig 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: eb28a48e5e35fc44daecaef6cc3c62cd
     m_Address: Assets/ConfigDependent/InAppPackageConfig 2.asset
     m_ReadOnly: 0

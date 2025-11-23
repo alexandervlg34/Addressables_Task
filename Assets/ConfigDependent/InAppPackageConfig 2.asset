@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f136639ba59129a4b9930dfb870ce7f0, type: 3}
   m_Name: InAppPackageConfig 2
   m_EditorClassIdentifier: 
-  Price: 15
+  Price: 20
